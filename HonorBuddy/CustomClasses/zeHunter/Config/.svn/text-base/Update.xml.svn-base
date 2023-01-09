@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<update>
+  <version>0.4</version>
+  <content>
+    <!-- fichiers racines -->
+    <file>zeHunter.cs</file>
+    <file>zeHunterSettings.cs</file>
+    <!-- Classes -->
+    <file>Classes\Abilities.cs</file>
+    <file>Classes\Descriptors.cs</file>
+    <file>Classes\Movement.cs</file>
+    <file>Classes\Output.cs</file>
+    <file>Classes\Target.cs</file>
+    <file>Classes\Traps.cs</file>
+    <file>Classes\TrinketsRacial.cs</file>
+    <file>Classes\Updater.cs</file>
+    <!-- Forms -->
+    <file>Forms\frmSettings.cs</file>
+    <file>Forms\frmSettings.Designer.cs</file>
+  </content>
+</update>
